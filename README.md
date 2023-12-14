@@ -1,0 +1,2 @@
+# Clinica-veterinaria-virtual-e-calculadora-de-dosagem.
+Projeto de avaliação final - Programa TOTI: Clinica veterinaria virtual que apresenta para o usuario uma lista de especialidades com seus valores em reais, recebe o valor de pago do usuario e gera o valor de troco. Também contem uma calculadora da dosagem de medicamentos segundo o peso do pet para indicar a medicação certa a ser administrada.
